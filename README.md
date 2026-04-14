@@ -1,5 +1,8 @@
 # The Legend of Kily
 
+## Integrantes do grupo
+- Kilian Soares Vacher: 26300101-EC1MA
+
 ## Descrição do Projeto
 Este projeto consiste em um **arcade em linguagem C**, desenvolvido para execução em console, contendo três minijogos totalmente interativos:
 
