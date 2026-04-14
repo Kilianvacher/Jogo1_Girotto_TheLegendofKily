@@ -110,4 +110,4 @@ Utilizada para:
 - Sugestões de melhoria
 - Explicação de conceitos
 - Foi Utilizada para fazer o final do Jogo do Pão, principalmente para o sRand.
-- Foi utilizada 100% na parte do Gousmas por falta de conhecimento e entendimento do assunto.
+- Foi utilizada o GPT para o aprimoramente e entendimento da maior parte do jogo Gousmas War.
