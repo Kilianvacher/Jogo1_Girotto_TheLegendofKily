@@ -288,13 +288,13 @@ int certa = 0, errada = 0, secret = 0, rSecret; //Soma para ver quantas acertou 
 						system("clr");
 						mSecret();
 					} else if(x=='N'|| x=='n'){
-						system("clr");
+						system("cls");
 						main();
 					}
 					break;
 				default:
 					printf("Você errou, tente novamente em outro momento.");
-					system("clr");
+					system("cls");
 					main();
 					break;
 		}
