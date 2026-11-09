@@ -7,10 +7,10 @@
 
 
 
-int main(){ //Menu Principal do The Legends of Kily
-	setlocale(LC_ALL,"portuguese");	//Não ter problema em colocar "ç" ou "~/^"
+int main(){      //Menu Principal do The Legends of Kily
+	setlocale(LC_ALL,"portuguese");	    //Não ter problema em colocar "ç" ou "~/^"
 	
-	srand(time(NULL)); //Randomizer ligado no main, para utilizar nas funções necessárias
+	srand(time(NULL));     //Randomizer ligado no main, para utilizar nas funções necessárias
 	
 		int op;
 	
@@ -47,7 +47,7 @@ int main(){ //Menu Principal do The Legends of Kily
 }
 
 
-void mK(){ //Menu principal do Karruti
+void mK(){     //Menu principal do Karruti
 	int opK;
 	printf("-----------\n");
 	printf("| Karruti |\n");
@@ -308,7 +308,7 @@ int certa = 0, errada = 0, secret = 0, rSecret; //Soma para ver quantas acertou 
 
 }
 
-void mSecret(){ //Easter Egg Principal
+void mSecret(){ //Easter Egg Principal, que só é ativado com certas condições(descubra)
 	printf("Quem diria que a atividade enviada há 2 meses não daria para ser feita direito em 2 dias.");
 	
 }
