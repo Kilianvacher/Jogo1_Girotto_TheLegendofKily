@@ -56,6 +56,7 @@ void mK(){     //Menu principal do Karruti
 	printf("Opção: ");
 	scanf("%d", &opK);
 		system("cls");
+	
 	switch(opK){
 		case 1:
 			jg_mK();
@@ -95,6 +96,7 @@ printf("¦¦¦¦¦++ ¦¦¦¦¦¦¦¦¦¦¦¦¦¦++¦¦¦¦¦¦++¦¦¦   ¦¦¦
 printf("¦¦+-¦¦+ ¦¦+--¦¦¦¦¦+--¦¦+¦¦+--¦¦+¦¦¦   ¦¦¦   ¦¦¦   ¦¦¦\n");
 printf("¦¦¦  ¦¦+¦¦¦  ¦¦¦¦¦¦  ¦¦¦¦¦¦  ¦¦¦+¦¦¦¦¦¦++   ¦¦¦   ¦¦¦\n");
 printf("+-+  +-++-+  +-++-+  +-++-+  +-+ +-----+    +-+   +-+\n");
+	
 	system("pause");
 	
 	printf("aperte enter para iniciar o jogo...");
