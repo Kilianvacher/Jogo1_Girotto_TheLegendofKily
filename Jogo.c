@@ -4,7 +4,6 @@
 #include <conio.h>
 #include <locale.h>
 #include <windows.h>
-
 int main(){      //Menu Principal do The Legends of Kily
 	setlocale(LC_ALL,"portuguese");	    //Não ter problema em colocar "ç" ou "~/^"
 	
