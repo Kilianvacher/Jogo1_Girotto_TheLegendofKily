@@ -6,7 +6,6 @@
 #include <windows.h>
 int main(){      //Menu Principal do The Legends of Kily
 	setlocale(LC_ALL,"portuguese");	    //Não ter problema em colocar "ç" ou "~/^"
-	
 	srand(time(NULL));     //Randomizer ligado no main, para utilizar nas funções necessárias
 	
 		int op;
